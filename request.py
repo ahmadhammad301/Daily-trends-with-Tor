@@ -1,5 +1,6 @@
 import io
 from datetime import datetime, date
+from ssl import SSL_ERROR_SSL
 from dateutil.relativedelta import relativedelta as delta
 import requests
 import urllib
@@ -14,7 +15,11 @@ from stem import Signal
 import extproxy
 import pytz
 from writer import writer
+import Authentecation
 tz_NY = pytz.timezone('America/New_York')
+
+proxies = {'http': 'socks5://127.0.0.1:9050'
+            ,'https': 'socks5://127.0.0.1:9050'}
 
 
 
@@ -56,24 +61,24 @@ def generate_intervals(overlap:int=35,
     intervals.reverse()
     return intervals
 
+
 def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
     q = [q] if type(q) == str else q
 
-    
     session = requests.session()
-    session.proxies = {'http':  'socks5://127.0.0.1:9050'
-                       ,'https': 'socks5://127.0.0.1:9050'}
-    proxies = {'http':  'socks5://127.0.0.1:9050'
-                       ,'https': 'socks5://127.0.0.1:9050'}
+    session.proxies = proxies
+    
 
     try:
         jar = session.get("https://trends.google.com/").cookies
+        
     except: 
         writer(' error in session.get')
         time.sleep(20)
         jar = session.get("https://trends.google.com/").cookies
-    urllib.request.ProxyHandler(proxies)
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+    
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar),urllib.request.ProxyHandler(proxies))
+    
     opener.addheaders = [
                 ("Referrer", "https://trends.google.com/trends/explore"),
                 ('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'),
@@ -90,6 +95,7 @@ def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
     params_0 = urllib.parse.urlencode(params_0)
     params_0 = params_0.replace('%3A', ':').replace('%2C', ',')  
     urllib.request.install_opener(opener)
+    # print('\n opener ip',opener.open("https://icanhazip.com/").read())
     data = opener.open("https://trends.google.com/trends/api/explore?" + params_0).read().decode('utf8')
     data = data[data.find("{"):]
     data = json.loads(data)
@@ -111,38 +117,71 @@ def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
     df.index = pd.DatetimeIndex(df.index)
     return df.asfreq("d")
 
-def _renew_connection():
+def get_tor_session():
+    session = requests.session()
+    # Tor uses the 9050 port as the default socks port
+    session.proxies = {'http':  'socks5://127.0.0.1:9050',
+                       'https': 'socks5://127.0.0.1:9050'}
+    return session
+
+
+# signal TOR for a new connection
+def renew_connection():
+    print("new Identity requested")
+    writer("new Identity requested",starting=False)
+    session = get_tor_session()
+    old_ip=session.get("https://icanhazip.com/").text.strip()
     with Controller.from_port(port = 9051) as controller:
-                    controller.authenticate(password="Upwork")
-                    controller.signal(Signal.NEWNYM)
+        controller.authenticate(password=Authentecation.Tor_password)
+        controller.signal(Signal.NEWNYM)
+        time.sleep(1)
+        session = get_tor_session()
+        new_ip=session.get("https://icanhazip.com/").text.strip()
+    while old_ip==new_ip:
+        print("trying again")
+        time.sleep(3)
+        session = get_tor_session()
+        new_ip=session.get("https://icanhazip.com/").text
+
+    
+    print("new Ip: ",new_ip)
+    writer("new Ip: "+str(new_ip))
+
 
 def collect_frames(q:None, start:str, end:str, geo:str) -> list:
     intervals = generate_intervals(init_start=start, init_end=end)
     frames = []
-    _renew_connection()   
-    for idx ,interval in enumerate(tqdm(intervals)):               
-        
+    #renew_connection()
+       
+    for idx ,interval in enumerate(tqdm(intervals)):
+        # renew_connection() #uncomment if you want to renew your ip every request (not recommended)
         flag=False
         while not flag:                
             try:
                 df = get_frame(q, interval, geo)
                 flag=True
             except urllib.error.HTTPError as e :
-                writer(f' getting blocked from the server... handling it..{str(e)} \n')
-
+                writer(f' getting blocked from the server... handling it..{str(e)}')
                 time.sleep(random.gammavariate(1.99,3.99))
-                _renew_connection()
-                # df = get_frame(q, interval, geo) 
+                renew_connection()
+                # df = get_frame(q, interval, geo)
+            except ConnectionResetError as e:
+                print(f' ConnectionResetError{str(e)}')
+                writer(f' ConnectionResetError{str(e)} ')
             except requests.exceptions.SSLError as e :
-                writer(f' error in requests.exceptions.SSLError{str(e)} \n')
+                writer(f' error in requests.exceptions.SSLError{str(e)} ')
                 time.sleep(random.gammavariate(1.99,3.99))
-                _renew_connection()
+                renew_connection()
                 # df = get_frame(q, interval, geo)
             except urllib.error.URLError as e :                
-                writer(f' error in requests.exceptions.SSLError {str(e)}\n')
+                writer(f'  urllib.error.URLError {str(e)}')
                 time.sleep(random.gammavariate(1.99,3.99))
-                _renew_connection()
+                renew_connection()
                 # df = get_frame(q, interval, geo)
+            except Exception as e :
+                writer(f' unexpected error: {str(e)}')
+                time.sleep(random.gammavariate(1.99,3.99))
+                renew_connection()
 
         time.sleep(random.gammavariate(.99,2.99)) # I should try to make a new condition > 3 seconds
         if len(df) == 0:
