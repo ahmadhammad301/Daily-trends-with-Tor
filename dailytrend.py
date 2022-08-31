@@ -31,8 +31,8 @@ master_df["Search"] = master_df["TICKER"] + " Stock"
 # batch = master_df[0:3300]      #1
 # filter_dir="google/daily1/"
 
-# batch = master_df[3300:6600]   #2
-# filter_dir="google/daily2/"
+#batch = master_df[3300:6600]   #2
+#filter_dir="google/daily2/"
 
 # batch = master_df[6600:9900]   #3
 # filter_dir="google/daily3/"
@@ -74,6 +74,13 @@ def check_files():
   all_files = [blob.name.split("/")[-1] for blob in blobs if filter_dir in blob.name ]
   return all_files
 
+#check error files to not try download it again
+with open('query.txt','a') as f:
+  f.writelines("starting\n")
+
+error_files=[line.strip() for line in open('query.txt')]
+save_file("query.txt", filter_dir+"query.txt", client, bucket)
+
 appender = []
 for en, r in enumerate(batch["Search"].unique()):
 
@@ -87,12 +94,20 @@ for en, r in enumerate(batch["Search"].unique()):
     print (datetime.now(tz_NY).strftime("%m-%d %H:%M:%S") + f' {r} file downloaded before')
     writer(f' {r} file downloaded before')
     continue
+
+  if file_name in error_files:
+    print (datetime.now(tz_NY).strftime("%m-%d %H:%M:%S") + f' {r} file has a value error before')
+    writer(f' {r} file has a value error before')
+    continue
+
   
   try:
     data = collect_data(r,start="2004-01-01", end=today,geo='', save=False, verbose=False)
   except ValueError as e:
     writer(f' there is a value error:{e}')
-    save_file("log.txt", filter_dir+"log.txt", client, bucket) 
+    save_file("log.txt", filter_dir+"log.txt", client, bucket)
+    with open('query.txt','a') as f:
+        f.writelines(f"{file_name}\n") 
     continue
   
   #saving the file
@@ -108,3 +123,4 @@ for en, r in enumerate(batch["Search"].unique()):
 
 writer(f"done scraping all files ")
 writer ('+'*100)
+
