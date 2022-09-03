@@ -130,18 +130,39 @@ def renew_connection():
     print("new Identity requested")
     writer("new Identity requested",starting=False)
     session = get_tor_session()
-    old_ip=session.get("https://icanhazip.com/").text.strip()
+    try:
+        old_ip=session.get("https://icanhazip.com/").text.strip()
+    except:
+        writer("exceptuion occured in icanhazip.com")
+        print("exceptuion occured in icanhazip.com")    
+        old_ip=session.get("https://checkip.amazonaws.com/").text.strip()
+
     with Controller.from_port(port = 9051) as controller:
         controller.authenticate(password=Authentecation.Tor_password)
         controller.signal(Signal.NEWNYM)
         time.sleep(1)
         session = get_tor_session()
-        new_ip=session.get("https://icanhazip.com/").text.strip()
+        
+        try:
+            new_ip=session.get("https://icanhazip.com/").text.strip()
+        except:
+            writer("exceptuion occured in icanhazip.com")
+            print("exceptuion occured in icanhazip.com")
+            new_ip=session.get("https://checkip.amazonaws.com/").text.strip()
+    tries = 0        
     while old_ip==new_ip:
+        tries += 1
+        if tries>5:
+            renew_connection()
         print("trying again")
-        time.sleep(3)
+        time.sleep(1)
         session = get_tor_session()
-        new_ip=session.get("https://icanhazip.com/").text
+        try:
+            new_ip=session.get("https://icanhazip.com/").text
+        except:
+            writer("exceptuion occured in icanhazip.com")
+            print("exceptuion occured in icanhazip.com")        
+            new_ip=session.get("https://checkip.amazonaws.com/").text.strip()
 
     
     print("new Ip: ",new_ip)
@@ -156,32 +177,38 @@ def collect_frames(q:None, start:str, end:str, geo:str) -> list:
     for idx ,interval in enumerate(tqdm(intervals)):
         # renew_connection() #uncomment if you want to renew your ip every request (not recommended)
         flag=False
+        tries=0
         while not flag:                
             try:
                 df = get_frame(q, interval, geo)
                 flag=True
+                tries=0 ## i need to give the ip another try
             except urllib.error.HTTPError as e :
+                tries+=1
                 writer(f' getting blocked from the server... handling it..{str(e)}')
-                time.sleep(random.gammavariate(1.99,3.99))
-                renew_connection()
-                # df = get_frame(q, interval, geo)
+                time.sleep(random.gammavariate(0.99,2.99))
+                if tries>5:
+                    renew_connection()
             except ConnectionResetError as e:
                 print(f' ConnectionResetError{str(e)}')
                 writer(f' ConnectionResetError{str(e)} ')
+                if tries>5:
+                    renew_connection()
             except requests.exceptions.SSLError as e :
                 writer(f' error in requests.exceptions.SSLError{str(e)} ')
-                time.sleep(random.gammavariate(1.99,3.99))
-                renew_connection()
-                # df = get_frame(q, interval, geo)
+                time.sleep(random.gammavariate(0.99,2.99))
+                if tries>5:
+                    renew_connection()
             except urllib.error.URLError as e :                
                 writer(f'  urllib.error.URLError {str(e)}')
-                time.sleep(random.gammavariate(1.99,3.99))
-                renew_connection()
-                # df = get_frame(q, interval, geo)
+                time.sleep(random.gammavariate(0.99,2.99))
+                if tries>5:
+                    renew_connection()
             except Exception as e :
                 writer(f' unexpected error: {str(e)}')
-                time.sleep(random.gammavariate(1.99,3.99))
-                renew_connection()
+                time.sleep(random.gammavariate(0.99,2.99))
+                if tries>5:
+                    renew_connection()
 
         time.sleep(random.gammavariate(.99,2.99)) # I should try to make a new condition > 3 seconds
         if len(df) == 0:
