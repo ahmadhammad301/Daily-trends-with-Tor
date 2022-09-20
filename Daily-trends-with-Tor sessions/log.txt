@@ -1,0 +1,1970 @@
+08-26 07:32:14   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-26 07:32:40   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-26 07:32:44   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-26 07:32:48   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+**************************************************
+
+08-26 12:23:37  startig at NY time: 
+08-26 12:23:38   getting file AAME Stock
+08-26 12:23:38   AAME Stock file downloaded before
+08-26 12:23:38   getting file AAPL Stock
+08-26 12:23:38   AAPL Stock file downloaded before
+08-26 12:23:38   getting file RINO Stock
+08-26 12:23:38   RINO Stock file downloaded before
+08-26 12:23:38   getting file ABLT Stock
+08-26 12:23:41   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:23:52   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:24:02   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:24:07   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:24:19   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:24:33   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:01   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:07   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:14   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:21   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:31   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:48   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:25:51   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:26:00   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:26:10   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:26:25   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 12:26:44   getting blocked from the server... handling it..HTTP Error 429: unknown
+**************************************************
+
+08-26 12:28:12  startig at NY time: 
+08-26 12:28:13   getting file AAME Stock
+08-26 12:28:13   AAME Stock file downloaded before
+08-26 12:28:13   getting file AAPL Stock
+08-26 12:28:13   AAPL Stock file downloaded before
+08-26 12:28:13   getting file RINO Stock
+08-26 12:28:13   RINO Stock file downloaded before
+08-26 12:28:13   getting file ABLT Stock
+08-26 12:31:12   there is a value error:There is no data for this particular query
+08-26 12:31:12   getting file ABM Stock
+08-26 12:31:12   ABM Stock file downloaded before
+08-26 12:31:12   getting file ABT Stock
+08-26 12:31:12   ABT Stock file downloaded before
+08-26 12:31:12   getting file GOLD Stock
+08-26 12:31:12   GOLD Stock file downloaded before
+08-26 12:31:12   getting file AB Stock
+08-26 12:31:13   AB Stock file downloaded before
+08-26 12:31:13   getting file TBLMY Stock
+08-26 12:34:22   there is a value error:There is no data for this particular query
+08-26 12:34:22   getting file ACMT Stock
+08-26 12:38:29   there is a value error:There is no data for this particular query
+08-26 12:38:29   getting file ACMTA Stock
+08-26 12:41:52   there is a value error:There is no data for this particular query
+08-26 12:41:52   getting file IEP Stock
+08-26 12:41:52   IEP Stock file downloaded before
+08-26 12:41:52   getting file CJREF Stock
+08-26 12:41:53   CJREF Stock file downloaded before
+08-26 12:41:53   getting file ACU Stock
+08-26 12:41:53   ACU Stock file downloaded before
+08-26 12:41:53   getting file RAMP Stock
+08-26 12:41:53   RAMP Stock file downloaded before
+08-26 12:41:53   getting file MTMT Stock
+08-26 12:41:53   MTMT Stock file downloaded before
+08-26 12:41:53   getting file ADBE Stock
+08-26 12:41:53   ADBE Stock file downloaded before
+08-26 12:41:53   getting file ADDC Stock
+08-26 12:45:08   there is a value error:There is no data for this particular query
+08-26 12:45:08   getting file ADI Stock
+08-26 12:45:08   ADI Stock file downloaded before
+08-26 12:45:08   getting file ADM Stock
+08-26 12:45:08   ADM Stock file downloaded before
+08-26 12:45:08   getting file GLBH Stock
+08-26 12:48:18   there is a value error:There is no data for this particular query
+08-26 12:48:18   getting file ADX Stock
+08-26 12:48:18   ADX Stock file downloaded before
+08-26 12:48:18   getting file AE Stock
+08-26 12:48:18   AE Stock file downloaded before
+08-26 12:48:18   getting file AEE Stock
+08-26 12:48:18   AEE Stock file downloaded before
+08-26 12:48:18   getting file AEP Stock
+08-26 12:48:19   AEP Stock file downloaded before
+08-26 12:48:19   getting file AFL Stock
+08-26 12:48:19   AFL Stock file downloaded before
+08-26 12:48:19   getting file KOLR Stock
+08-26 12:51:25   there is a value error:There is no data for this particular query
+08-26 12:51:25   getting file ATPL Stock
+08-26 12:54:02   there is a value error:There is no data for this particular query
+08-26 12:54:02   getting file HES Stock
+08-26 12:54:02   HES Stock file downloaded before
+08-26 12:54:02   getting file AIG Stock
+08-26 12:54:02   AIG Stock file downloaded before
+08-26 12:54:02   getting file HAIPF Stock
+08-26 12:57:56   there is a value error:There is no data for this particular query
+08-26 12:57:56   getting file AIR Stock
+08-26 12:57:57   AIR Stock file downloaded before
+08-26 12:57:57   getting file AIRT Stock
+08-26 12:57:57   AIRT Stock file downloaded before
+08-26 12:57:57   getting file AIT Stock
+08-26 12:57:57   AIT Stock file downloaded before
+08-26 12:57:57   getting file AJG Stock
+08-26 12:57:57   AJG Stock file downloaded before
+08-26 12:57:57   getting file TRKR Stock
+08-26 12:57:57   TRKR Stock file downloaded before
+08-26 12:57:57   getting file VMTF Stock
+08-26 13:00:47   there is a value error:There is no data for this particular query
+08-26 13:00:47   getting file ALCO Stock
+08-26 13:00:47   ALCO Stock file downloaded before
+08-26 13:00:47   getting file MATX Stock
+08-26 13:00:47   MATX Stock file downloaded before
+08-26 13:00:47   getting file ALK Stock
+08-26 13:00:47   ALK Stock file downloaded before
+08-26 13:00:47   getting file ALOT Stock
+08-26 13:00:47   ALOT Stock file downloaded before
+08-26 13:00:47   getting file EINF Stock
+08-26 13:03:47   there is a value error:There is no data for this particular query
+08-26 13:03:48   getting file ALX Stock
+08-26 13:03:48   ALX Stock file downloaded before
+08-26 13:03:48   getting file AMAT Stock
+08-26 13:03:48   AMAT Stock file downloaded before
+08-26 13:03:48   getting file PLD Stock
+08-26 13:03:48   PLD Stock file downloaded before
+08-26 13:03:48   getting file AMD Stock
+08-26 13:03:48   AMD Stock file downloaded before
+08-26 13:03:48   getting file VNTA Stock
+08-26 13:06:41   there is a value error:There is no data for this particular query
+08-26 13:06:41   getting file AME Stock
+08-26 13:06:41   AME Stock file downloaded before
+08-26 13:06:41   getting file AMED Stock
+08-26 13:06:41   AMED Stock file downloaded before
+08-26 13:06:41   getting file VPLM Stock
+08-26 13:06:41   VPLM Stock file downloaded before
+08-26 13:06:41   getting file AMGN Stock
+08-26 13:06:41   AMGN Stock file downloaded before
+08-26 13:06:41   getting file FRME Stock
+08-26 13:06:41   FRME Stock file downloaded before
+08-26 13:06:41   getting file KATX Stock
+08-26 13:06:41   KATX Stock file downloaded before
+08-26 13:06:41   getting file MNAT Stock
+08-26 13:09:53   there is a value error:There is no data for this particular query
+08-26 13:09:53   getting file AMS Stock
+08-26 13:09:53   AMS Stock file downloaded before
+08-26 13:09:53   getting file AMSWA Stock
+08-26 13:09:53   AMSWA Stock file downloaded before
+08-26 13:09:53   getting file AMT Stock
+08-26 13:09:53   AMT Stock file downloaded before
+08-26 13:09:53   getting file AMTA Stock
+08-26 13:12:55   there is a value error:There is no data for this particular query
+08-26 13:12:55   getting file AMTY Stock
+08-26 13:12:55   AMTY Stock file downloaded before
+08-26 13:12:55   getting file AMWD Stock
+08-26 13:12:56   AMWD Stock file downloaded before
+08-26 13:12:56   getting file AN Stock
+08-26 13:12:56   AN Stock file downloaded before
+08-26 13:12:56   getting file ANDR Stock
+08-26 13:15:57   there is a value error:There is no data for this particular query
+08-26 13:15:57   getting file MDGP Stock
+08-26 13:18:24   there is a value error:There is no data for this particular query
+08-26 13:18:24   getting file AOS Stock
+08-26 13:18:25   AOS Stock file downloaded before
+08-26 13:18:25   getting file AP Stock
+08-26 13:18:25   AP Stock file downloaded before
+08-26 13:18:25   getting file CLFD Stock
+08-26 13:18:25   CLFD Stock file downloaded before
+08-26 13:18:25   getting file APD Stock
+08-26 13:18:25   APD Stock file downloaded before
+08-26 13:18:25   getting file APH Stock
+08-26 13:18:25   APH Stock file downloaded before
+08-26 13:18:25   getting file AHIX Stock
+08-26 13:18:25   AHIX Stock file downloaded before
+08-26 13:18:25   getting file APOG Stock
+08-26 13:18:25   APOG Stock file downloaded before
+08-26 13:18:25   getting file ABVG Stock
+08-26 13:21:21   done downloading file ABVG Stock
+08-26 13:21:21   getting file MCR Stock
+08-26 13:24:54   done downloading file MCR Stock
+08-26 13:24:54   getting file ARINA Stock
+08-26 13:27:20   there is a value error:There is no data for this particular query
+08-26 13:27:20   getting file RGBOQ Stock
+08-26 13:31:18   there is a value error:There is no data for this particular query
+08-26 13:31:18   getting file AROW Stock
+08-26 13:34:38   done downloading file AROW Stock
+08-26 13:34:38   getting file TREC Stock
+08-26 13:37:28   done downloading file TREC Stock
+08-26 13:37:28   getting file ARTW Stock
+08-26 13:41:16   done downloading file ARTW Stock
+08-26 13:41:16   getting file SGRN Stock
+08-26 13:44:45   there is a value error:There is no data for this particular query
+08-26 13:44:45   getting file ARW Stock
+08-26 13:46:39   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 13:47:18   done downloading file ARW Stock
+08-26 13:47:18   getting file ASA Stock
+08-26 13:50:58   done downloading file ASA Stock
+08-26 13:50:58   getting file ASB Stock
+08-26 13:53:33   done downloading file ASB Stock
+08-26 13:53:33   getting file TATD Stock
+08-26 13:56:51   there is a value error:There is no data for this particular query
+08-26 13:56:51   getting file DMF Stock
+08-26 13:59:44   done downloading file DMF Stock
+08-26 13:59:44   getting file ASR Stock
+08-26 14:02:11   error in session.get
+08-26 14:04:23   done downloading file ASR Stock
+08-26 14:04:23   getting file ASTE Stock
+08-26 14:07:45   done downloading file ASTE Stock
+08-26 14:07:45   getting file VIFI Stock
+08-26 14:10:36   there is a value error:There is no data for this particular query
+08-26 14:10:36   getting file ASYS Stock
+08-26 14:13:34   done downloading file ASYS Stock
+08-26 14:13:34   getting file ATAX Stock
+08-26 14:16:44   done downloading file ATAX Stock
+08-26 14:16:44   getting file ATRO Stock
+08-26 14:19:38   done downloading file ATRO Stock
+08-26 14:19:38   getting file AGTT Stock
+08-26 14:23:36   there is a value error:There is no data for this particular query
+08-26 14:23:36   getting file EPAC Stock
+08-26 14:27:19   done downloading file EPAC Stock
+08-26 14:27:19   getting file AU Stock
+08-26 14:29:54   done downloading file AU Stock
+08-26 14:29:54   getting file AVA Stock
+08-26 14:33:30   done downloading file AVA Stock
+08-26 14:33:30   getting file ZCBD Stock
+08-26 14:36:08   there is a value error:There is no data for this particular query
+08-26 14:36:08   getting file AVT Stock
+08-26 14:38:56   done downloading file AVT Stock
+08-26 14:38:56   getting file AVY Stock
+08-26 14:42:43   done downloading file AVY Stock
+08-26 14:42:43   getting file AWSI Stock
+08-26 14:46:17   done downloading file AWSI Stock
+08-26 14:46:17   getting file AXP Stock
+08-26 14:49:02   done downloading file AXP Stock
+08-26 14:49:02   getting file AXR Stock
+08-26 14:51:42   done downloading file AXR Stock
+08-26 14:51:42   getting file B Stock
+08-26 14:54:57   done downloading file B Stock
+08-26 14:54:57   getting file BA Stock
+08-26 14:58:48   done downloading file BA Stock
+08-26 14:58:48   getting file ICAGY Stock
+08-26 15:03:33   done downloading file ICAGY Stock
+08-26 15:03:33   getting file BAC Stock
+08-26 15:06:40   done downloading file BAC Stock
+08-26 15:06:40   getting file BAX Stock
+08-26 15:10:09   done downloading file BAX Stock
+08-26 15:10:09   getting file SRSG Stock
+08-26 15:12:48   there is a value error:There is no data for this particular query
+08-26 15:12:49   getting file BBY Stock
+08-26 15:14:32   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:14:41   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:15:00   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:15:10   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:15:44   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:15:49   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:15:51   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:03   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:12   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:23   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:30   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:38   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:48   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:16:56   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:17:01   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:17:11   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:17:27   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:17:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:18:03   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:18:18   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:18:25   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:18:36   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:18:58   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:13   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:17   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:25   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:38   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:43   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:49   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:52   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:19:58   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:20:09   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:20:15   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:20:36   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:20:50   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:20:55   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:21:04   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:21:27   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:21:32   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:21:43   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:21:53   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:21:58   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:22:08   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:22:26   error in session.get
+08-26 15:22:52   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:22:59   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:23:11   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:23:14   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:23:26   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-26 15:23:43   getting blocked from the server... handling it..HTTP Error 429: unknown
+**************************************************
+
+08-27 12:23:38  startig at NY time: 
+08-27 12:23:40   getting file AAME Stock
+08-27 12:23:40   AAME Stock file downloaded before
+08-27 12:23:40   getting file AAPL Stock
+08-27 12:23:40   AAPL Stock file downloaded before
+08-27 12:23:40   getting file RINO Stock
+08-27 12:23:40   RINO Stock file downloaded before
+08-27 12:23:40   getting file ABLT Stock
+08-27 12:23:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:23:54   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:24:09   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:24:21   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:24:25   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:24:37   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:24:41   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:24:56   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:25:02   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:25:10   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:25:16   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:25:21   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:25:36   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:25:42   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:26:17   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:26:30   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:26:35   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:26:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:26:52   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:27:17   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:27:35   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:27:39   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:27:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:28:12   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:28:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:29:00   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:29:17   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:31:53   there is a value error:There is no data for this particular query
+08-27 12:31:53   getting file ABM Stock
+08-27 12:31:53   ABM Stock file downloaded before
+08-27 12:31:53   getting file ABT Stock
+08-27 12:31:53   ABT Stock file downloaded before
+08-27 12:31:53   getting file GOLD Stock
+08-27 12:31:53   GOLD Stock file downloaded before
+08-27 12:31:53   getting file AB Stock
+08-27 12:31:53   AB Stock file downloaded before
+08-27 12:31:53   getting file TBLMY Stock
+08-27 12:34:33   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 12:35:22   there is a value error:There is no data for this particular query
+08-27 12:35:22   getting file ACMT Stock
+08-27 12:38:29   there is a value error:There is no data for this particular query
+08-27 12:38:29   getting file ACMTA Stock
+08-27 12:40:58   there is a value error:There is no data for this particular query
+08-27 12:40:59   getting file IEP Stock
+08-27 12:40:59   IEP Stock file downloaded before
+08-27 12:40:59   getting file CJREF Stock
+08-27 12:40:59   CJREF Stock file downloaded before
+08-27 12:40:59   getting file ACU Stock
+08-27 12:40:59   ACU Stock file downloaded before
+08-27 12:40:59   getting file RAMP Stock
+08-27 12:40:59   RAMP Stock file downloaded before
+08-27 12:40:59   getting file MTMT Stock
+08-27 12:40:59   MTMT Stock file downloaded before
+08-27 12:40:59   getting file ADBE Stock
+08-27 12:40:59   ADBE Stock file downloaded before
+08-27 12:40:59   getting file ADDC Stock
+08-27 12:43:54   there is a value error:There is no data for this particular query
+08-27 12:43:54   getting file ADI Stock
+08-27 12:43:54   ADI Stock file downloaded before
+08-27 12:43:54   getting file ADM Stock
+08-27 12:43:54   ADM Stock file downloaded before
+08-27 12:43:54   getting file GLBH Stock
+08-27 12:47:13   there is a value error:There is no data for this particular query
+08-27 12:47:14   getting file ADX Stock
+08-27 12:47:14   ADX Stock file downloaded before
+08-27 12:47:14   getting file AE Stock
+08-27 12:47:14   AE Stock file downloaded before
+08-27 12:47:14   getting file AEE Stock
+08-27 12:47:14   AEE Stock file downloaded before
+08-27 12:47:14   getting file AEP Stock
+08-27 12:47:14   AEP Stock file downloaded before
+08-27 12:47:14   getting file AFL Stock
+08-27 12:47:14   AFL Stock file downloaded before
+08-27 12:47:14   getting file KOLR Stock
+08-27 12:50:34   there is a value error:There is no data for this particular query
+08-27 12:50:34   getting file ATPL Stock
+08-27 12:53:31   there is a value error:There is no data for this particular query
+08-27 12:53:32   getting file HES Stock
+08-27 12:53:32   HES Stock file downloaded before
+08-27 12:53:32   getting file AIG Stock
+08-27 12:53:32   AIG Stock file downloaded before
+08-27 12:53:32   getting file HAIPF Stock
+08-27 12:56:35   there is a value error:There is no data for this particular query
+08-27 12:56:35   getting file AIR Stock
+08-27 12:56:35   AIR Stock file downloaded before
+08-27 12:56:35   getting file AIRT Stock
+08-27 12:56:35   AIRT Stock file downloaded before
+08-27 12:56:35   getting file AIT Stock
+08-27 12:56:35   AIT Stock file downloaded before
+08-27 12:56:35   getting file AJG Stock
+08-27 12:56:35   AJG Stock file downloaded before
+08-27 12:56:35   getting file TRKR Stock
+08-27 12:56:36   TRKR Stock file downloaded before
+08-27 12:56:36   getting file VMTF Stock
+08-27 12:59:42   there is a value error:There is no data for this particular query
+08-27 12:59:42   getting file ALCO Stock
+08-27 12:59:42   ALCO Stock file downloaded before
+08-27 12:59:42   getting file MATX Stock
+08-27 12:59:42   MATX Stock file downloaded before
+08-27 12:59:42   getting file ALK Stock
+08-27 12:59:42   ALK Stock file downloaded before
+08-27 12:59:42   getting file ALOT Stock
+08-27 12:59:42   ALOT Stock file downloaded before
+08-27 12:59:42   getting file EINF Stock
+08-27 13:03:52   there is a value error:There is no data for this particular query
+08-27 13:03:52   getting file ALX Stock
+08-27 13:03:52   ALX Stock file downloaded before
+08-27 13:03:52   getting file AMAT Stock
+08-27 13:03:53   AMAT Stock file downloaded before
+08-27 13:03:53   getting file PLD Stock
+08-27 13:03:53   PLD Stock file downloaded before
+08-27 13:03:53   getting file AMD Stock
+08-27 13:03:53   AMD Stock file downloaded before
+08-27 13:03:53   getting file VNTA Stock
+08-27 13:07:25   there is a value error:There is no data for this particular query
+08-27 13:07:25   getting file AME Stock
+08-27 13:07:25   AME Stock file downloaded before
+08-27 13:07:25   getting file AMED Stock
+08-27 13:07:25   AMED Stock file downloaded before
+08-27 13:07:25   getting file VPLM Stock
+08-27 13:07:25   VPLM Stock file downloaded before
+08-27 13:07:25   getting file AMGN Stock
+08-27 13:07:26   AMGN Stock file downloaded before
+08-27 13:07:26   getting file FRME Stock
+08-27 13:07:26   FRME Stock file downloaded before
+08-27 13:07:26   getting file KATX Stock
+08-27 13:07:26   KATX Stock file downloaded before
+08-27 13:07:26   getting file MNAT Stock
+08-27 13:10:29   there is a value error:There is no data for this particular query
+08-27 13:10:29   getting file AMS Stock
+08-27 13:10:29   AMS Stock file downloaded before
+08-27 13:10:29   getting file AMSWA Stock
+08-27 13:10:29   AMSWA Stock file downloaded before
+08-27 13:10:29   getting file AMT Stock
+08-27 13:10:29   AMT Stock file downloaded before
+08-27 13:10:29   getting file AMTA Stock
+08-27 13:13:05   there is a value error:There is no data for this particular query
+08-27 13:13:05   getting file AMTY Stock
+08-27 13:13:05   AMTY Stock file downloaded before
+08-27 13:13:05   getting file AMWD Stock
+08-27 13:13:05   AMWD Stock file downloaded before
+08-27 13:13:05   getting file AN Stock
+08-27 13:13:05   AN Stock file downloaded before
+08-27 13:13:05   getting file ANDR Stock
+08-27 13:16:48   there is a value error:There is no data for this particular query
+08-27 13:16:48   getting file MDGP Stock
+08-27 13:19:46   there is a value error:There is no data for this particular query
+08-27 13:19:46   getting file AOS Stock
+08-27 13:19:46   AOS Stock file downloaded before
+08-27 13:19:46   getting file AP Stock
+08-27 13:19:46   AP Stock file downloaded before
+08-27 13:19:46   getting file CLFD Stock
+08-27 13:19:46   CLFD Stock file downloaded before
+08-27 13:19:46   getting file APD Stock
+08-27 13:19:46   APD Stock file downloaded before
+08-27 13:19:46   getting file APH Stock
+08-27 13:19:46   APH Stock file downloaded before
+08-27 13:19:46   getting file AHIX Stock
+08-27 13:19:46   AHIX Stock file downloaded before
+08-27 13:19:46   getting file APOG Stock
+08-27 13:19:46   APOG Stock file downloaded before
+08-27 13:19:46   getting file ABVG Stock
+08-27 13:19:46   ABVG Stock file downloaded before
+08-27 13:19:46   getting file MCR Stock
+08-27 13:19:46   MCR Stock file downloaded before
+08-27 13:19:46   getting file ARINA Stock
+08-27 13:19:49   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 13:23:10   there is a value error:There is no data for this particular query
+08-27 13:23:10   getting file RGBOQ Stock
+08-27 13:26:26   there is a value error:There is no data for this particular query
+08-27 13:26:26   getting file AROW Stock
+08-27 13:26:26   AROW Stock file downloaded before
+08-27 13:26:26   getting file TREC Stock
+08-27 13:26:27   TREC Stock file downloaded before
+08-27 13:26:27   getting file ARTW Stock
+08-27 13:26:27   ARTW Stock file downloaded before
+08-27 13:26:27   getting file SGRN Stock
+08-27 13:29:28   there is a value error:There is no data for this particular query
+08-27 13:29:28   getting file ARW Stock
+08-27 13:29:28   ARW Stock file downloaded before
+08-27 13:29:28   getting file ASA Stock
+08-27 13:29:28   ASA Stock file downloaded before
+08-27 13:29:28   getting file ASB Stock
+08-27 13:29:28   ASB Stock file downloaded before
+08-27 13:29:28   getting file TATD Stock
+08-27 13:32:31   there is a value error:There is no data for this particular query
+08-27 13:32:31   getting file DMF Stock
+08-27 13:32:31   DMF Stock file downloaded before
+08-27 13:32:31   getting file ASR Stock
+08-27 13:32:32   ASR Stock file downloaded before
+08-27 13:32:32   getting file ASTE Stock
+08-27 13:32:32   ASTE Stock file downloaded before
+08-27 13:32:32   getting file VIFI Stock
+08-27 13:35:40   there is a value error:There is no data for this particular query
+08-27 13:35:40   getting file ASYS Stock
+08-27 13:35:41   ASYS Stock file downloaded before
+08-27 13:35:41   getting file ATAX Stock
+08-27 13:35:41   ATAX Stock file downloaded before
+08-27 13:35:41   getting file ATRO Stock
+08-27 13:35:41   ATRO Stock file downloaded before
+08-27 13:35:41   getting file AGTT Stock
+08-27 13:39:03   there is a value error:There is no data for this particular query
+08-27 13:39:03   getting file EPAC Stock
+08-27 13:39:03   EPAC Stock file downloaded before
+08-27 13:39:03   getting file AU Stock
+08-27 13:39:03   AU Stock file downloaded before
+08-27 13:39:03   getting file AVA Stock
+08-27 13:39:03   AVA Stock file downloaded before
+08-27 13:39:03   getting file ZCBD Stock
+08-27 13:42:23   there is a value error:There is no data for this particular query
+08-27 13:42:24   getting file AVT Stock
+08-27 13:42:24   AVT Stock file downloaded before
+08-27 13:42:24   getting file AVY Stock
+08-27 13:42:24   AVY Stock file downloaded before
+08-27 13:42:24   getting file AWSI Stock
+08-27 13:42:24   AWSI Stock file downloaded before
+08-27 13:42:24   getting file AXP Stock
+08-27 13:42:24   AXP Stock file downloaded before
+08-27 13:42:24   getting file AXR Stock
+08-27 13:42:24   AXR Stock file downloaded before
+08-27 13:42:24   getting file B Stock
+08-27 13:42:24   B Stock file downloaded before
+08-27 13:42:24   getting file BA Stock
+08-27 13:42:24   BA Stock file downloaded before
+08-27 13:42:24   getting file ICAGY Stock
+08-27 13:42:24   ICAGY Stock file downloaded before
+08-27 13:42:24   getting file BAC Stock
+08-27 13:42:24   BAC Stock file downloaded before
+08-27 13:42:24   getting file BAX Stock
+08-27 13:42:24   BAX Stock file downloaded before
+08-27 13:42:24   getting file SRSG Stock
+08-27 13:45:22   there is a value error:There is no data for this particular query
+08-27 13:45:23   getting file BBY Stock
+08-27 13:48:50   done downloading file BBY Stock
+08-27 13:48:50   getting file BC Stock
+08-27 13:52:43   done downloading file BC Stock
+08-27 13:52:43   getting file BCE Stock
+08-27 13:56:02   done downloading file BCE Stock
+08-27 13:56:02   getting file BCPC Stock
+08-27 13:59:01   done downloading file BCPC Stock
+08-27 13:59:01   getting file BCS Stock
+08-27 14:02:25   done downloading file BCS Stock
+08-27 14:02:25   getting file BCV Stock
+08-27 14:06:07   done downloading file BCV Stock
+08-27 14:06:07   getting file BDL Stock
+08-27 14:09:08   done downloading file BDL Stock
+08-27 14:09:08   getting file BDX Stock
+08-27 14:12:14   done downloading file BDX Stock
+08-27 14:12:14   getting file DLTA Stock
+08-27 14:15:19   done downloading file DLTA Stock
+08-27 14:15:19   getting file BEN Stock
+08-27 14:18:45   done downloading file BEN Stock
+08-27 14:18:45   getting file WRB Stock
+08-27 14:22:16   done downloading file WRB Stock
+08-27 14:22:16   getting file BF/A Stock
+08-27 14:25:18   there is a value error:There is no data for this particular query
+08-27 14:25:18   getting file BF/B Stock
+08-27 14:26:18   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 14:29:18   there is a value error:There is no data for this particular query
+08-27 14:29:19   getting file BHP Stock
+08-27 14:33:05   done downloading file BHP Stock
+08-27 14:33:05   getting file NIFCY Stock
+08-27 14:35:46   there is a value error:There is no data for this particular query
+08-27 14:35:46   getting file BLLI Stock
+08-27 14:38:08   there is a value error:There is no data for this particular query
+08-27 14:38:08   getting file BIO/B Stock
+08-27 14:40:48   there is a value error:There is no data for this particular query
+08-27 14:40:48   getting file BIP Stock
+08-27 14:43:34   done downloading file BIP Stock
+08-27 14:43:34   getting file BRTR Stock
+08-27 14:46:19   there is a value error:There is no data for this particular query
+08-27 14:46:19   getting file BK Stock
+08-27 14:49:26   done downloading file BK Stock
+08-27 14:49:26   getting file BKE Stock
+08-27 14:49:53   error in session.get
+08-27 14:53:09   done downloading file BKE Stock
+08-27 14:53:09   getting file BKFG Stock
+08-27 14:57:15   there is a value error:There is no data for this particular query
+08-27 14:57:16   getting file BKH Stock
+08-27 14:59:55   done downloading file BKH Stock
+08-27 14:59:55   getting file BKSC Stock
+08-27 15:03:42   done downloading file BKSC Stock
+08-27 15:03:42   getting file BKT Stock
+08-27 15:07:02   done downloading file BKT Stock
+08-27 15:07:02   getting file BALL Stock
+08-27 15:09:34   done downloading file BALL Stock
+08-27 15:09:34   getting file BMI Stock
+08-27 15:09:48   error in session.get
+08-27 15:14:19   done downloading file BMI Stock
+08-27 15:14:19   getting file FRTN Stock
+08-27 15:15:23   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:15:30   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:15:39   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:15:43   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:15:56   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:16:18   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:16:27   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:16:35   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:16:40   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:16:55   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:17:03   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:17:08   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:17:16   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:17:25   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:17:34   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:17:42   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:18:01   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:18:04   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:18:21   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:18:38   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:18:50   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:18:54   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:19:05   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:19:15   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:19:47   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:19:53   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:20:08   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:20:20   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:20:28   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:20:43   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:22:32   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:22:38   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:22:53   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:22:58   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:23:15   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 15:23:49   error in session.get
+**************************************************
+
+08-27 18:10:01  startig at NY time: 
+08-27 18:10:03   getting file AAME Stock
+08-27 18:10:03   AAME Stock file downloaded before
+08-27 18:10:03   getting file AAPL Stock
+08-27 18:10:03   AAPL Stock file downloaded before
+08-27 18:10:03   getting file RINO Stock
+08-27 18:10:03   RINO Stock file downloaded before
+08-27 18:10:03   getting file ABLT Stock
+08-27 18:12:48   there is a value error:There is no data for this particular query
+08-27 18:12:48   getting file ABM Stock
+08-27 18:12:48   ABM Stock file downloaded before
+08-27 18:12:48   getting file ABT Stock
+08-27 18:12:49   ABT Stock file downloaded before
+08-27 18:12:49   getting file GOLD Stock
+08-27 18:12:49   GOLD Stock file downloaded before
+08-27 18:12:49   getting file AB Stock
+08-27 18:12:49   AB Stock file downloaded before
+08-27 18:12:49   getting file TBLMY Stock
+08-27 18:15:32   there is a value error:There is no data for this particular query
+08-27 18:15:32   getting file ACMT Stock
+**************************************************
+
+08-27 18:17:21  startig at NY time: 
+08-27 18:17:23   getting file AAME Stock
+08-27 18:17:23   AAME Stock file downloaded before
+08-27 18:17:23   getting file AAPL Stock
+08-27 18:17:23   AAPL Stock file downloaded before
+08-27 18:17:23   getting file RINO Stock
+08-27 18:17:23   RINO Stock file downloaded before
+08-27 18:17:23   getting file ABLT Stock
+08-27 18:17:23  new Identity requested
+08-27 18:18:44   there is a value error:There is no data for this particular query
+08-27 18:18:44   getting file ACMTA Stock
+**************************************************
+
+08-27 18:21:05  startig at NY time: 
+08-27 18:21:07   getting file AAME Stock
+08-27 18:21:07   AAME Stock file downloaded before
+08-27 18:21:07   getting file AAPL Stock
+08-27 18:21:07   AAPL Stock file downloaded before
+08-27 18:21:07   getting file RINO Stock
+08-27 18:21:07   RINO Stock file downloaded before
+08-27 18:21:07   getting file ABLT Stock
+08-27 18:21:07  new Identity requested
+08-27 18:22:20   there is a value error:There is no data for this particular query
+08-27 18:22:20   getting file IEP Stock
+08-27 18:22:20   IEP Stock file downloaded before
+08-27 18:22:20   getting file CJREF Stock
+08-27 18:22:20   CJREF Stock file downloaded before
+08-27 18:22:20   getting file ACU Stock
+08-27 18:22:21   ACU Stock file downloaded before
+08-27 18:22:21   getting file RAMP Stock
+08-27 18:22:21   RAMP Stock file downloaded before
+08-27 18:22:21   getting file MTMT Stock
+08-27 18:22:21   MTMT Stock file downloaded before
+08-27 18:22:21   getting file ADBE Stock
+08-27 18:22:21   ADBE Stock file downloaded before
+08-27 18:22:21   getting file ADDC Stock
+**************************************************
+
+08-27 18:24:59  startig at NY time: 
+08-27 18:25:00   getting file AAME Stock
+08-27 18:25:00   AAME Stock file downloaded before
+08-27 18:25:00   getting file AAPL Stock
+08-27 18:25:00   AAPL Stock file downloaded before
+08-27 18:25:00   getting file RINO Stock
+08-27 18:25:00   RINO Stock file downloaded before
+08-27 18:25:00   getting file ABLT Stock
+08-27 18:25:00  new Identity requested
+**************************************************
+
+08-27 18:25:04  new Ip: 
+08-27 18:25:07   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:25:23  new Identity requested
+**************************************************
+
+08-27 18:25:24  new Ip: 
+08-27 18:25:37   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:25:41  new Identity requested
+**************************************************
+
+08-27 18:25:43  new Ip: 
+08-27 18:25:50   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:25:54  new Identity requested
+**************************************************
+
+08-27 18:25:55  new Ip: 
+08-27 18:25:57   there is a value error:There is no data for this particular query
+08-27 18:25:58   getting file ADI Stock
+08-27 18:25:58   ADI Stock file downloaded before
+08-27 18:25:58   getting file ADM Stock
+08-27 18:25:58   ADM Stock file downloaded before
+08-27 18:25:58   getting file GLBH Stock
+08-27 18:26:18   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:26:29  new Identity requested
+**************************************************
+
+08-27 18:26:30  new Ip: 
+08-27 18:28:26   there is a value error:There is no data for this particular query
+08-27 18:28:27   getting file ADX Stock
+08-27 18:28:27   ADX Stock file downloaded before
+08-27 18:28:27   getting file AE Stock
+08-27 18:28:27   AE Stock file downloaded before
+08-27 18:28:27   getting file AEE Stock
+08-27 18:28:27   AEE Stock file downloaded before
+08-27 18:28:27   getting file AEP Stock
+08-27 18:28:27   AEP Stock file downloaded before
+08-27 18:28:27   getting file AFL Stock
+08-27 18:28:27   AFL Stock file downloaded before
+08-27 18:28:27   getting file KOLR Stock
+08-27 18:28:41   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:28:46  new Identity requested
+**************************************************
+
+08-27 18:28:48  new Ip: 
+08-27 18:29:40   there is a value error:There is no data for this particular query
+08-27 18:29:41   getting file ABM Stock
+08-27 18:29:41   ABM Stock file downloaded before
+08-27 18:29:41   getting file ABT Stock
+08-27 18:29:41   ABT Stock file downloaded before
+08-27 18:29:41   getting file GOLD Stock
+08-27 18:29:41   GOLD Stock file downloaded before
+08-27 18:29:41   getting file AB Stock
+08-27 18:29:41   AB Stock file downloaded before
+08-27 18:29:41   getting file TBLMY Stock
+08-27 18:29:41  new Identity requested
+**************************************************
+
+08-27 18:29:43  new Ip: 
+08-27 18:30:18   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:30:27  new Identity requested
+**************************************************
+
+08-27 18:30:29  new Ip: 
+08-27 18:30:36   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:30:44  new Identity requested
+**************************************************
+
+08-27 18:30:47  new Ip: 
+08-27 18:30:55   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:30:57  new Identity requested
+**************************************************
+
+08-27 18:30:59  new Ip: 
+08-27 18:31:03   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:31:15  new Identity requested
+**************************************************
+
+08-27 18:31:17  new Ip: 
+08-27 18:31:21   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:31:22  new Identity requested
+08-27 18:31:24  new Identity requested
+08-27 18:31:26  new Identity requested
+**************************************************
+
+08-27 18:31:29  new Ip: 
+**************************************************
+
+08-27 18:31:29  new Ip: 
+**************************************************
+
+08-27 18:31:29  new Ip: 
+08-27 18:31:40   there is a value error:There is no data for this particular query
+08-27 18:31:40   getting file ATPL Stock
+08-27 18:34:25   there is a value error:There is no data for this particular query
+08-27 18:34:25   getting file HES Stock
+08-27 18:34:25   HES Stock file downloaded before
+08-27 18:34:25   getting file AIG Stock
+08-27 18:34:26   AIG Stock file downloaded before
+08-27 18:34:26   getting file HAIPF Stock
+08-27 18:34:29   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:34:38  new Identity requested
+**************************************************
+
+08-27 18:34:41  new Ip: 
+08-27 18:34:44   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:34:49  new Identity requested
+**************************************************
+
+08-27 18:34:51  new Ip: 
+08-27 18:34:54   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:35:04  new Identity requested
+**************************************************
+
+08-27 18:35:06  new Ip: 
+08-27 18:35:08   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+**************************************************
+
+08-27 18:35:57  startig at NY time: 
+08-27 18:35:59   getting file AAME Stock
+08-27 18:35:59   AAME Stock file downloaded before
+08-27 18:35:59   getting file AAPL Stock
+08-27 18:35:59   AAPL Stock file downloaded before
+08-27 18:35:59   getting file RINO Stock
+08-27 18:35:59   RINO Stock file downloaded before
+08-27 18:35:59   getting file ABLT Stock
+08-27 18:35:59  new Identity requested
+08-27 18:36:00  new Ip: 103.251.167.21
+
+08-27 18:36:10   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:36:18  new Identity requested
+08-27 18:36:20  new Ip: 109.70.100.83
+
+08-27 18:36:28   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:36:37  new Identity requested
+08-27 18:36:39  new Ip: 185.220.102.241
+
+08-27 18:36:45   there is a value error:There is no data for this particular query
+08-27 18:36:46   getting file AIR Stock
+08-27 18:36:46   AIR Stock file downloaded before
+08-27 18:36:46   getting file AIRT Stock
+08-27 18:36:46   AIRT Stock file downloaded before
+08-27 18:36:46   getting file AIT Stock
+08-27 18:36:46   AIT Stock file downloaded before
+08-27 18:36:46   getting file AJG Stock
+08-27 18:36:46   AJG Stock file downloaded before
+08-27 18:36:46   getting file TRKR Stock
+08-27 18:36:46   TRKR Stock file downloaded before
+08-27 18:36:46   getting file VMTF Stock
+08-27 18:40:16   there is a value error:There is no data for this particular query
+08-27 18:40:16   getting file ALCO Stock
+08-27 18:40:16   ALCO Stock file downloaded before
+08-27 18:40:16   getting file MATX Stock
+08-27 18:40:16   MATX Stock file downloaded before
+08-27 18:40:16   getting file ALK Stock
+08-27 18:40:16   ALK Stock file downloaded before
+08-27 18:40:16   getting file ALOT Stock
+08-27 18:40:16   ALOT Stock file downloaded before
+08-27 18:40:16   getting file EINF Stock
+08-27 18:40:55   there is a value error:There is no data for this particular query
+08-27 18:40:55   getting file ABM Stock
+08-27 18:40:55   ABM Stock file downloaded before
+08-27 18:40:55   getting file ABT Stock
+08-27 18:40:55   ABT Stock file downloaded before
+08-27 18:40:55   getting file GOLD Stock
+08-27 18:40:55   GOLD Stock file downloaded before
+08-27 18:40:55   getting file AB Stock
+08-27 18:40:55   AB Stock file downloaded before
+08-27 18:40:55   getting file TBLMY Stock
+08-27 18:40:55  new Identity requested
+08-27 18:40:57  new Ip: 95.214.54.101
+
+08-27 18:43:05   there is a value error:There is no data for this particular query
+08-27 18:43:05   getting file ALX Stock
+08-27 18:43:05   ALX Stock file downloaded before
+08-27 18:43:05   getting file AMAT Stock
+08-27 18:43:05   AMAT Stock file downloaded before
+08-27 18:43:05   getting file PLD Stock
+08-27 18:43:06   PLD Stock file downloaded before
+08-27 18:43:06   getting file AMD Stock
+08-27 18:43:06   AMD Stock file downloaded before
+08-27 18:43:06   getting file VNTA Stock
+08-27 18:43:07   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:43:16  new Identity requested
+08-27 18:43:18  new Ip: 23.128.248.20
+
+08-27 18:45:55   there is a value error:There is no data for this particular query
+08-27 18:45:55   getting file ACMT Stock
+08-27 18:45:55  new Identity requested
+08-27 18:45:58  new Ip: 185.100.87.192
+
+08-27 18:46:43   there is a value error:There is no data for this particular query
+08-27 18:46:44   getting file AME Stock
+08-27 18:46:44   AME Stock file downloaded before
+08-27 18:46:44   getting file AMED Stock
+08-27 18:46:44   AMED Stock file downloaded before
+08-27 18:46:44   getting file VPLM Stock
+08-27 18:46:44   VPLM Stock file downloaded before
+08-27 18:46:44   getting file AMGN Stock
+08-27 18:46:44   AMGN Stock file downloaded before
+08-27 18:46:44   getting file FRME Stock
+08-27 18:46:44   FRME Stock file downloaded before
+08-27 18:46:44   getting file KATX Stock
+08-27 18:46:44   KATX Stock file downloaded before
+08-27 18:46:44   getting file MNAT Stock
+08-27 18:46:54   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:47:01  new Identity requested
+08-27 18:47:03  new Ip: 185.220.101.80
+
+08-27 18:47:09   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:47:14  new Identity requested
+08-27 18:47:16  new Ip: 103.251.167.20
+
+08-27 18:47:27   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:47:31  new Identity requested
+08-27 18:47:33  new Ip: 185.220.102.247
+
+08-27 18:47:48   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:47:56  new Identity requested
+08-27 18:47:59  new Ip: 93.174.89.131
+
+08-27 18:50:13   there is a value error:There is no data for this particular query
+08-27 18:50:13   getting file AMS Stock
+08-27 18:50:13   AMS Stock file downloaded before
+08-27 18:50:13   getting file AMSWA Stock
+08-27 18:50:14   AMSWA Stock file downloaded before
+08-27 18:50:14   getting file AMT Stock
+08-27 18:50:14   AMT Stock file downloaded before
+08-27 18:50:14   getting file AMTA Stock
+08-27 18:51:16   there is a value error:There is no data for this particular query
+08-27 18:51:16   getting file ACMTA Stock
+08-27 18:51:16  new Identity requested
+08-27 18:51:18  new Ip: 193.32.127.156
+
+08-27 18:52:52   there is a value error:There is no data for this particular query
+08-27 18:52:52   getting file AMTY Stock
+08-27 18:52:52   AMTY Stock file downloaded before
+08-27 18:52:52   getting file AMWD Stock
+08-27 18:52:52   AMWD Stock file downloaded before
+08-27 18:52:52   getting file AN Stock
+08-27 18:52:52   AN Stock file downloaded before
+08-27 18:52:52   getting file ANDR Stock
+08-27 18:54:37   there is a value error:There is no data for this particular query
+08-27 18:54:37   getting file IEP Stock
+08-27 18:54:37   IEP Stock file downloaded before
+08-27 18:54:37   getting file CJREF Stock
+08-27 18:54:38   CJREF Stock file downloaded before
+08-27 18:54:38   getting file ACU Stock
+08-27 18:54:38   ACU Stock file downloaded before
+08-27 18:54:38   getting file RAMP Stock
+08-27 18:54:38   RAMP Stock file downloaded before
+08-27 18:54:38   getting file MTMT Stock
+08-27 18:54:38   MTMT Stock file downloaded before
+08-27 18:54:38   getting file ADBE Stock
+08-27 18:54:38   ADBE Stock file downloaded before
+08-27 18:54:38   getting file ADDC Stock
+08-27 18:54:38  new Identity requested
+08-27 18:54:39  new Ip: 178.175.135.7
+
+08-27 18:56:02   there is a value error:There is no data for this particular query
+08-27 18:56:03   getting file MDGP Stock
+08-27 18:56:15   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:56:21  new Identity requested
+08-27 18:56:23  new Ip: 171.25.193.234
+
+08-27 18:56:37   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:56:41  new Identity requested
+08-27 18:56:45  new Ip: 109.70.100.31
+
+08-27 18:56:52   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 18:56:59  new Identity requested
+08-27 18:57:02  new Ip: 185.220.101.56
+
+08-27 18:59:34   there is a value error:There is no data for this particular query
+08-27 18:59:35   getting file ADI Stock
+08-27 18:59:35   ADI Stock file downloaded before
+08-27 18:59:35   getting file ADM Stock
+08-27 18:59:35   ADM Stock file downloaded before
+08-27 18:59:35   getting file GLBH Stock
+08-27 18:59:35  new Identity requested
+08-27 18:59:37  new Ip: 185.220.101.2
+
+08-27 18:59:42   there is a value error:There is no data for this particular query
+08-27 18:59:42   getting file AOS Stock
+08-27 18:59:42   AOS Stock file downloaded before
+08-27 18:59:42   getting file AP Stock
+08-27 18:59:43   AP Stock file downloaded before
+08-27 18:59:43   getting file CLFD Stock
+08-27 18:59:43   CLFD Stock file downloaded before
+08-27 18:59:43   getting file APD Stock
+08-27 18:59:43   APD Stock file downloaded before
+08-27 18:59:43   getting file APH Stock
+08-27 18:59:43   APH Stock file downloaded before
+08-27 18:59:43   getting file AHIX Stock
+08-27 18:59:43   AHIX Stock file downloaded before
+08-27 18:59:43   getting file APOG Stock
+08-27 18:59:43   APOG Stock file downloaded before
+08-27 18:59:43   getting file ABVG Stock
+08-27 18:59:43   ABVG Stock file downloaded before
+08-27 18:59:43   getting file MCR Stock
+08-27 18:59:43   MCR Stock file downloaded before
+08-27 18:59:43   getting file ARINA Stock
+08-27 19:02:41   there is a value error:There is no data for this particular query
+08-27 19:02:42   getting file RGBOQ Stock
+08-27 19:05:22   there is a value error:There is no data for this particular query
+08-27 19:05:23   getting file ADX Stock
+08-27 19:05:23   ADX Stock file downloaded before
+08-27 19:05:23   getting file AE Stock
+08-27 19:05:23   AE Stock file downloaded before
+08-27 19:05:23   getting file AEE Stock
+08-27 19:05:23   AEE Stock file downloaded before
+08-27 19:05:23   getting file AEP Stock
+08-27 19:05:23   AEP Stock file downloaded before
+08-27 19:05:23   getting file AFL Stock
+08-27 19:05:23   AFL Stock file downloaded before
+08-27 19:05:23   getting file KOLR Stock
+08-27 19:05:23  new Identity requested
+08-27 19:05:25  new Ip: 185.16.38.112
+
+08-27 19:05:37   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:05:50  new Identity requested
+08-27 19:05:52  new Ip: 109.70.100.88
+
+08-27 19:06:07   there is a value error:There is no data for this particular query
+08-27 19:06:07   getting file AROW Stock
+08-27 19:06:07   AROW Stock file downloaded before
+08-27 19:06:07   getting file TREC Stock
+08-27 19:06:08   TREC Stock file downloaded before
+08-27 19:06:08   getting file ARTW Stock
+08-27 19:06:08   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:06:08   ARTW Stock file downloaded before
+08-27 19:06:08   getting file SGRN Stock
+08-27 19:06:10  new Identity requested
+08-27 19:06:12  new Identity requested
+08-27 19:06:14  new Identity requested
+08-27 19:06:17  new Identity requested
+08-27 19:06:19  new Ip: 23.128.248.80
+
+08-27 19:06:19  new Ip: 5.45.102.68
+
+08-27 19:06:19  new Ip: 5.45.102.68
+
+08-27 19:06:19  new Ip: 5.45.102.68
+
+08-27 19:08:47   there is a value error:There is no data for this particular query
+08-27 19:08:47   getting file ARW Stock
+08-27 19:08:48   ARW Stock file downloaded before
+08-27 19:08:48   getting file ASA Stock
+08-27 19:08:48   ASA Stock file downloaded before
+08-27 19:08:48   getting file ASB Stock
+08-27 19:08:48   ASB Stock file downloaded before
+08-27 19:08:48   getting file TATD Stock
+08-27 19:08:49   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:08:55  new Identity requested
+08-27 19:08:56  new Identity requested
+08-27 19:08:58  new Identity requested
+08-27 19:08:59  new Identity requested
+08-27 19:09:01  new Identity requested
+08-27 19:09:02  new Identity requested
+08-27 19:09:04  new Identity requested
+08-27 19:09:05  new Identity requested
+08-27 19:09:06  new Identity requested
+08-27 19:09:08  new Identity requested
+08-27 19:09:10  new Ip: 107.189.7.156
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 51.195.166.196
+
+08-27 19:09:10  new Ip: 109.70.100.91
+
+08-27 19:09:10  new Ip: 109.70.100.91
+
+08-27 19:10:49   there is a value error:There is no data for this particular query
+08-27 19:10:49   getting file ATPL Stock
+08-27 19:10:50  new Identity requested
+08-27 19:10:51  new Ip: 91.211.89.43
+
+08-27 19:11:50   there is a value error:There is no data for this particular query
+08-27 19:11:50   getting file DMF Stock
+08-27 19:11:50   DMF Stock file downloaded before
+08-27 19:11:50   getting file ASR Stock
+08-27 19:11:50   ASR Stock file downloaded before
+08-27 19:11:50   getting file ASTE Stock
+08-27 19:11:50   ASTE Stock file downloaded before
+08-27 19:11:50   getting file VIFI Stock
+08-27 19:12:06   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:12:11  new Identity requested
+08-27 19:12:15  new Ip: 23.154.177.3
+
+08-27 19:14:14   there is a value error:There is no data for this particular query
+08-27 19:14:14   getting file ASYS Stock
+08-27 19:14:15   ASYS Stock file downloaded before
+08-27 19:14:15   getting file ATAX Stock
+08-27 19:14:15   ATAX Stock file downloaded before
+08-27 19:14:15   getting file ATRO Stock
+08-27 19:14:15   ATRO Stock file downloaded before
+08-27 19:14:15   getting file AGTT Stock
+08-27 19:15:35   there is a value error:There is no data for this particular query
+08-27 19:15:36   getting file HES Stock
+08-27 19:15:36   HES Stock file downloaded before
+08-27 19:15:36   getting file AIG Stock
+08-27 19:15:36   AIG Stock file downloaded before
+08-27 19:15:36   getting file HAIPF Stock
+08-27 19:15:36  new Identity requested
+08-27 19:15:43  new Ip: 194.26.192.186
+
+08-27 19:16:25   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:16:48  new Identity requested
+08-27 19:16:51  new Ip: 185.220.101.163
+
+08-27 19:16:57   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:17:09   there is a value error:There is no data for this particular query
+08-27 19:17:09   getting file EPAC Stock
+08-27 19:17:09   EPAC Stock file downloaded before
+08-27 19:17:09   getting file AU Stock
+08-27 19:17:09   AU Stock file downloaded before
+08-27 19:17:09   getting file AVA Stock
+08-27 19:17:09   AVA Stock file downloaded before
+08-27 19:17:09   getting file ZCBD Stock
+08-27 19:17:14  new Identity requested
+08-27 19:17:19  new Identity requested
+08-27 19:17:21  new Identity requested
+08-27 19:17:23  new Identity requested
+08-27 19:17:24  new Identity requested
+08-27 19:17:26  new Identity requested
+08-27 19:17:28  new Identity requested
+08-27 19:17:31  new Ip: 103.251.167.21
+
+08-27 19:17:31  new Ip: 185.195.71.3
+
+08-27 19:17:31  new Ip: 185.195.71.3
+
+08-27 19:17:31  new Ip: 185.195.71.3
+
+08-27 19:17:31  new Ip: 185.195.71.3
+
+08-27 19:17:31  new Ip: 185.195.71.3
+
+08-27 19:17:31  new Ip: 185.220.101.8
+
+08-27 19:17:35   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:17:40  new Identity requested
+08-27 19:17:42  new Identity requested
+08-27 19:17:45  new Identity requested
+08-27 19:17:47  new Identity requested
+08-27 19:17:49  new Identity requested
+08-27 19:17:51  new Ip: 82.221.131.5
+
+08-27 19:17:51  new Ip: 185.220.101.154
+
+08-27 19:17:51  new Ip: 185.220.101.154
+
+08-27 19:17:51  new Ip: 185.220.101.154
+
+08-27 19:17:51  new Ip: 185.220.101.154
+
+08-27 19:18:03   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:18:19  new Identity requested
+08-27 19:18:21  new Ip: 162.247.74.202
+
+08-27 19:19:00   error in requests.exceptions.SSLError <urlopen error EOF occurred in violation of protocol (_ssl.c:1123)>
+
+08-27 19:19:19  new Identity requested
+08-27 19:19:21  new Ip: 185.220.101.72
+
+08-27 19:19:34   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:19:42  new Identity requested
+08-27 19:19:44  new Ip: 185.220.101.168
+
+08-27 19:19:47   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:19:48   there is a value error:There is no data for this particular query
+08-27 19:19:49   getting file AVT Stock
+08-27 19:19:49   AVT Stock file downloaded before
+08-27 19:19:49   getting file AVY Stock
+08-27 19:19:49   AVY Stock file downloaded before
+08-27 19:19:49   getting file AWSI Stock
+08-27 19:19:49   AWSI Stock file downloaded before
+08-27 19:19:49   getting file AXP Stock
+08-27 19:19:49   AXP Stock file downloaded before
+08-27 19:19:49   getting file AXR Stock
+08-27 19:19:49   AXR Stock file downloaded before
+08-27 19:19:49   getting file B Stock
+08-27 19:19:49   B Stock file downloaded before
+08-27 19:19:49   getting file BA Stock
+08-27 19:19:49   BA Stock file downloaded before
+08-27 19:19:49   getting file ICAGY Stock
+08-27 19:19:49   ICAGY Stock file downloaded before
+08-27 19:19:49   getting file BAC Stock
+08-27 19:19:49   BAC Stock file downloaded before
+08-27 19:19:49   getting file BAX Stock
+08-27 19:19:49   BAX Stock file downloaded before
+08-27 19:19:49   getting file SRSG Stock
+08-27 19:19:58  new Identity requested
+08-27 19:20:00  new Identity requested
+08-27 19:20:03  new Identity requested
+08-27 19:20:06  new Ip: 162.247.72.199
+
+08-27 19:20:06  new Ip: 185.220.102.244
+
+08-27 19:20:06  new Ip: 185.220.102.244
+
+08-27 19:20:22   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:20:41  new Identity requested
+08-27 19:20:43  new Ip: 103.214.7.251
+
+08-27 19:23:38   there is a value error:There is no data for this particular query
+08-27 19:23:38   getting file BBY Stock
+08-27 19:23:39   BBY Stock file downloaded before
+08-27 19:23:39   getting file BC Stock
+08-27 19:23:39   BC Stock file downloaded before
+08-27 19:23:39   getting file BCE Stock
+08-27 19:23:39   BCE Stock file downloaded before
+08-27 19:23:39   getting file BCPC Stock
+08-27 19:23:39   BCPC Stock file downloaded before
+08-27 19:23:39   getting file BCS Stock
+08-27 19:23:39   BCS Stock file downloaded before
+08-27 19:23:39   getting file BCV Stock
+08-27 19:23:39   BCV Stock file downloaded before
+08-27 19:23:39   getting file BDL Stock
+08-27 19:23:39   BDL Stock file downloaded before
+08-27 19:23:39   getting file BDX Stock
+08-27 19:23:39   BDX Stock file downloaded before
+08-27 19:23:39   getting file DLTA Stock
+08-27 19:23:39   DLTA Stock file downloaded before
+08-27 19:23:39   getting file BEN Stock
+08-27 19:23:39   BEN Stock file downloaded before
+08-27 19:23:39   getting file WRB Stock
+08-27 19:23:39   WRB Stock file downloaded before
+08-27 19:23:39   getting file BF/A Stock
+08-27 19:23:42   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:23:46  new Identity requested
+08-27 19:23:49  new Identity requested
+08-27 19:23:52  new Ip: 185.220.100.251
+
+08-27 19:23:52  new Ip: 109.70.100.30
+
+08-27 19:24:42   there is a value error:There is no data for this particular query
+08-27 19:24:42   getting file AIR Stock
+08-27 19:24:42   AIR Stock file downloaded before
+08-27 19:24:42   getting file AIRT Stock
+08-27 19:24:42   AIRT Stock file downloaded before
+08-27 19:24:42   getting file AIT Stock
+08-27 19:24:42   AIT Stock file downloaded before
+08-27 19:24:42   getting file AJG Stock
+08-27 19:24:42   AJG Stock file downloaded before
+08-27 19:24:42   getting file TRKR Stock
+08-27 19:24:42   TRKR Stock file downloaded before
+08-27 19:24:42   getting file VMTF Stock
+08-27 19:24:42  new Identity requested
+08-27 19:24:44  new Ip: 92.246.84.133
+
+08-27 19:26:29   there is a value error:There is no data for this particular query
+08-27 19:26:29   getting file BF/B Stock
+08-27 19:28:07   error in session.get
+08-27 19:28:07   error in session.get
+08-27 19:29:07   there is a value error:There is no data for this particular query
+08-27 19:29:07   getting file ALCO Stock
+08-27 19:29:07   ALCO Stock file downloaded before
+08-27 19:29:07   getting file MATX Stock
+08-27 19:29:07   MATX Stock file downloaded before
+08-27 19:29:07   getting file ALK Stock
+08-27 19:29:07   ALK Stock file downloaded before
+08-27 19:29:07   getting file ALOT Stock
+08-27 19:29:07   ALOT Stock file downloaded before
+08-27 19:29:07   getting file EINF Stock
+08-27 19:29:07  new Identity requested
+08-27 19:29:09  new Ip: 185.220.101.55
+
+08-27 19:29:12   there is a value error:There is no data for this particular query
+08-27 19:29:13   getting file BHP Stock
+08-27 19:29:13   BHP Stock file downloaded before
+08-27 19:29:13   getting file NIFCY Stock
+08-27 19:29:13   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:29:18  new Identity requested
+08-27 19:29:20  new Identity requested
+08-27 19:29:21  new Identity requested
+08-27 19:29:23  new Identity requested
+08-27 19:29:24  new Identity requested
+08-27 19:29:26  new Identity requested
+08-27 19:29:27  new Identity requested
+08-27 19:29:28  new Ip: 185.220.101.1
+
+08-27 19:29:28  new Ip: 185.195.71.3
+
+08-27 19:29:28  new Ip: 185.195.71.3
+
+08-27 19:29:28  new Ip: 185.195.71.3
+
+08-27 19:29:28  new Ip: 185.195.71.3
+
+08-27 19:29:28  new Ip: 185.195.71.3
+
+08-27 19:29:28  new Ip: 185.195.71.3
+
+08-27 19:29:31   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:29:47  new Identity requested
+08-27 19:29:57  new Ip: 83.137.158.13
+
+08-27 19:33:35   there is a value error:There is no data for this particular query
+08-27 19:33:36   getting file BLLI Stock
+08-27 19:35:02   there is a value error:There is no data for this particular query
+08-27 19:35:03   getting file ALX Stock
+08-27 19:35:03   ALX Stock file downloaded before
+08-27 19:35:03   getting file AMAT Stock
+08-27 19:35:03   AMAT Stock file downloaded before
+08-27 19:35:03   getting file PLD Stock
+08-27 19:35:03   PLD Stock file downloaded before
+08-27 19:35:03   getting file AMD Stock
+08-27 19:35:03   AMD Stock file downloaded before
+08-27 19:35:03   getting file VNTA Stock
+08-27 19:35:03  new Identity requested
+08-27 19:35:05  new Ip: 104.244.76.170
+
+08-27 19:36:29   there is a value error:There is no data for this particular query
+08-27 19:36:29   getting file BIO/B Stock
+08-27 19:36:35   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:36:36  new Identity requested
+08-27 19:36:38  new Identity requested
+08-27 19:36:39  new Identity requested
+08-27 19:36:41  new Identity requested
+08-27 19:36:43  new Identity requested
+08-27 19:36:46  new Identity requested
+08-27 19:36:48  new Identity requested
+08-27 19:36:51  new Ip: 185.244.192.175
+
+08-27 19:36:51  new Ip: 109.70.100.83
+
+08-27 19:36:51  new Ip: 109.70.100.83
+
+08-27 19:36:51  new Ip: 109.70.100.83
+
+08-27 19:36:51  new Ip: 109.70.100.83
+
+08-27 19:36:51  new Ip: 185.220.100.254
+
+08-27 19:36:51  new Ip: 185.220.100.254
+
+08-27 19:37:06   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:37:15  new Identity requested
+08-27 19:37:17  new Ip: 185.220.101.18
+
+08-27 19:37:22   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:37:29  new Identity requested
+08-27 19:37:32  new Ip: 185.100.85.23
+
+08-27 19:39:45   there is a value error:There is no data for this particular query
+08-27 19:39:46   getting file BIP Stock
+08-27 19:39:46   BIP Stock file downloaded before
+08-27 19:39:46   getting file BRTR Stock
+08-27 19:39:54   there is a value error:There is no data for this particular query
+08-27 19:39:54   getting file AME Stock
+08-27 19:39:54   AME Stock file downloaded before
+08-27 19:39:54   getting file AMED Stock
+08-27 19:39:54   AMED Stock file downloaded before
+08-27 19:39:54   getting file VPLM Stock
+08-27 19:39:55   VPLM Stock file downloaded before
+08-27 19:39:55   getting file AMGN Stock
+08-27 19:39:55   AMGN Stock file downloaded before
+08-27 19:39:55   getting file FRME Stock
+08-27 19:39:55   FRME Stock file downloaded before
+08-27 19:39:55   getting file KATX Stock
+08-27 19:39:55   KATX Stock file downloaded before
+08-27 19:39:55   getting file MNAT Stock
+08-27 19:39:55  new Identity requested
+08-27 19:39:56  new Identity requested
+08-27 19:39:58  new Ip: 179.43.159.201
+
+08-27 19:39:58  new Ip: 185.220.100.241
+
+08-27 19:40:23   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:40:27  new Identity requested
+08-27 19:40:31  new Ip: 103.251.167.20
+
+08-27 19:40:59   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:41:34  new Identity requested
+08-27 19:41:38  new Ip: 185.220.101.169
+
+08-27 19:41:41   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:41:43  new Identity requested
+08-27 19:41:45  new Identity requested
+08-27 19:41:47  new Identity requested
+08-27 19:41:48  new Ip: 185.220.101.157
+
+08-27 19:41:48  new Ip: 185.220.101.169
+
+08-27 19:41:48  new Ip: 185.220.101.169
+
+08-27 19:41:51   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:41:55  new Identity requested
+08-27 19:41:56  new Identity requested
+08-27 19:42:08  new Ip: 178.20.55.18
+
+08-27 19:42:08  new Ip: 185.220.101.157
+
+08-27 19:42:40   error in session.get
+08-27 19:43:16   there is a value error:There is no data for this particular query
+08-27 19:43:16   getting file BK Stock
+08-27 19:43:17   BK Stock file downloaded before
+08-27 19:43:17   getting file BKE Stock
+08-27 19:43:17   BKE Stock file downloaded before
+08-27 19:43:17   getting file BKFG Stock
+08-27 19:43:29   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:43:31  new Identity requested
+08-27 19:43:34  new Ip: 185.244.194.139
+
+08-27 19:45:57   there is a value error:There is no data for this particular query
+08-27 19:45:57   getting file BKH Stock
+08-27 19:45:57   BKH Stock file downloaded before
+08-27 19:45:57   getting file BKSC Stock
+08-27 19:45:58   BKSC Stock file downloaded before
+08-27 19:45:58   getting file BKT Stock
+08-27 19:45:58   BKT Stock file downloaded before
+08-27 19:45:58   getting file BALL Stock
+08-27 19:45:58   BALL Stock file downloaded before
+08-27 19:45:58   getting file BMI Stock
+08-27 19:45:58   BMI Stock file downloaded before
+08-27 19:45:58   getting file FRTN Stock
+08-27 19:46:13   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:46:16  new Identity requested
+08-27 19:46:20  new Ip: 195.176.3.23
+
+08-27 19:46:26   there is a value error:There is no data for this particular query
+08-27 19:46:27   getting file AMS Stock
+08-27 19:46:27   AMS Stock file downloaded before
+08-27 19:46:27   getting file AMSWA Stock
+08-27 19:46:27   AMSWA Stock file downloaded before
+08-27 19:46:27   getting file AMT Stock
+08-27 19:46:27   AMT Stock file downloaded before
+08-27 19:46:27   getting file AMTA Stock
+08-27 19:46:27  new Identity requested
+08-27 19:46:30  new Ip: 144.172.73.66
+
+08-27 19:46:48   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:46:50  new Identity requested
+08-27 19:46:53  new Ip: 185.220.101.18
+
+08-27 19:46:57   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:47:04  new Identity requested
+08-27 19:47:08  new Ip: 103.251.167.21
+
+08-27 19:47:23   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:47:27  new Identity requested
+08-27 19:47:30  new Ip: 185.220.100.252
+
+08-27 19:49:22   done downloading file FRTN Stock
+08-27 19:49:22   getting file BMRA Stock
+08-27 19:49:29   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:49:33  new Identity requested
+08-27 19:49:35  new Ip: 146.19.173.113
+
+08-27 19:49:47   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:50:02  new Identity requested
+08-27 19:50:05  new Ip: 45.134.225.36
+
+08-27 19:50:18   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:50:31  new Identity requested
+08-27 19:50:34  new Ip: 185.195.71.3
+
+08-27 19:50:41   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:50:42  new Identity requested
+08-27 19:50:45  new Ip: 185.220.101.44
+
+08-27 19:50:48   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:50:49  new Identity requested
+08-27 19:50:50  new Identity requested
+08-27 19:50:53  new Identity requested
+08-27 19:50:55  new Identity requested
+08-27 19:50:58  new Identity requested
+08-27 19:51:00  new Identity requested
+08-27 19:51:03  new Identity requested
+08-27 19:51:05  new Ip: 185.36.81.95
+
+08-27 19:51:05  new Ip: 185.220.101.189
+
+08-27 19:51:05  new Ip: 185.220.101.189
+
+08-27 19:51:05  new Ip: 185.220.101.189
+
+08-27 19:51:05  new Ip: 185.220.101.189
+
+08-27 19:51:05  new Ip: 185.220.101.44
+
+08-27 19:51:05  new Ip: 185.220.101.44
+
+08-27 19:52:48   done downloading file BMRA Stock
+08-27 19:52:48   getting file BZLFY Stock
+08-27 19:52:50   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:53:00  new Identity requested
+08-27 19:53:02  new Ip: 185.220.101.128
+
+08-27 19:53:05   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:53:09  new Identity requested
+08-27 19:53:11  new Identity requested
+08-27 19:53:13  new Identity requested
+08-27 19:53:15  new Identity requested
+08-27 19:53:17  new Identity requested
+08-27 19:53:19  new Identity requested
+08-27 19:53:21  new Identity requested
+08-27 19:53:24  new Identity requested
+08-27 19:53:27  new Identity requested
+08-27 19:53:29  new Identity requested
+08-27 19:53:32  new Ip: 185.220.101.131
+
+08-27 19:53:32  new Ip: 23.128.248.108
+
+08-27 19:53:32  new Ip: 23.128.248.108
+
+08-27 19:53:32  new Ip: 23.128.248.108
+
+08-27 19:53:32  new Ip: 79.110.62.194
+
+08-27 19:53:32  new Ip: 79.110.62.194
+
+08-27 19:53:32  new Ip: 79.110.62.194
+
+08-27 19:53:32  new Ip: 79.110.62.194
+
+08-27 19:53:32  new Ip: 79.110.62.194
+
+08-27 19:53:32  new Ip: 185.220.101.128
+
+08-27 19:53:36   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:53:51  new Identity requested
+08-27 19:53:54  new Ip: 109.70.100.85
+
+08-27 19:54:06   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:54:16  new Identity requested
+08-27 19:54:19  new Ip: 95.214.52.187
+
+08-27 19:54:35   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:54:37  new Identity requested
+08-27 19:54:39  new Ip: 83.97.20.84
+
+08-27 19:54:55   there is a value error:There is no data for this particular query
+08-27 19:54:55   getting file AMTY Stock
+08-27 19:54:55   AMTY Stock file downloaded before
+08-27 19:54:55   getting file AMWD Stock
+08-27 19:54:55   AMWD Stock file downloaded before
+08-27 19:54:55   getting file AN Stock
+08-27 19:54:55   AN Stock file downloaded before
+08-27 19:54:55   getting file ANDR Stock
+08-27 19:54:56  new Identity requested
+08-27 19:54:58  new Ip: 95.214.54.97
+
+08-27 19:55:38   there is a value error:There is no data for this particular query
+08-27 19:55:39   getting file DHCC Stock
+08-27 19:55:51   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:56:00  new Identity requested
+08-27 19:56:08  new Ip: 185.220.101.38
+
+08-27 19:56:31   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:56:33  new Identity requested
+08-27 19:56:36  new Ip: 185.220.101.63
+
+08-27 19:56:41   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:56:56  new Identity requested
+08-27 19:56:58  new Ip: 94.230.208.148
+
+08-27 19:59:05   done downloading file DHCC Stock
+08-27 19:59:05   getting file BOOM Stock
+08-27 19:59:13   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 19:59:16  new Identity requested
+08-27 19:59:18  new Ip: 198.98.51.189
+
+08-27 20:00:01   there is a value error:There is no data for this particular query
+08-27 20:00:01   getting file MDGP Stock
+08-27 20:00:02  new Identity requested
+08-27 20:00:04  new Ip: 104.244.78.6
+
+08-27 20:02:14   done downloading file BOOM Stock
+08-27 20:02:14   getting file BPMI Stock
+08-27 20:02:17   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:02:22  new Identity requested
+08-27 20:02:25  new Identity requested
+08-27 20:02:28  new Ip: 109.70.100.88
+
+08-27 20:02:28  new Ip: 185.220.101.45
+
+08-27 20:04:21   there is a value error:There is no data for this particular query
+08-27 20:04:21   getting file AOS Stock
+08-27 20:04:21   AOS Stock file downloaded before
+08-27 20:04:21   getting file AP Stock
+08-27 20:04:21   AP Stock file downloaded before
+08-27 20:04:21   getting file CLFD Stock
+08-27 20:04:21   CLFD Stock file downloaded before
+08-27 20:04:21   getting file APD Stock
+08-27 20:04:21   APD Stock file downloaded before
+08-27 20:04:21   getting file APH Stock
+08-27 20:04:21   APH Stock file downloaded before
+08-27 20:04:21   getting file AHIX Stock
+08-27 20:04:22   AHIX Stock file downloaded before
+08-27 20:04:22   getting file APOG Stock
+08-27 20:04:22   APOG Stock file downloaded before
+08-27 20:04:22   getting file ABVG Stock
+08-27 20:04:22   ABVG Stock file downloaded before
+08-27 20:04:22   getting file MCR Stock
+08-27 20:04:22   MCR Stock file downloaded before
+08-27 20:04:22   getting file ARINA Stock
+08-27 20:04:22  new Identity requested
+08-27 20:04:24  new Ip: 185.220.101.45
+
+08-27 20:04:31   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:04:38  new Identity requested
+08-27 20:04:42  new Ip: 185.220.100.246
+
+08-27 20:04:54   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:05:06  new Identity requested
+08-27 20:05:08  new Ip: 103.251.167.20
+
+08-27 20:05:22   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:05:25  new Identity requested
+08-27 20:05:25   there is a value error:There is no data for this particular query
+08-27 20:05:25   getting file BPOP Stock
+08-27 20:05:28  new Ip: 185.220.100.254
+
+08-27 20:09:13   done downloading file BPOP Stock
+08-27 20:09:13   getting file BRC Stock
+08-27 20:09:15   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:09:21  new Identity requested
+08-27 20:09:22  new Identity requested
+08-27 20:09:24  new Ip: 185.220.101.48
+
+08-27 20:09:24  new Ip: 185.220.101.189
+
+08-27 20:09:27   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:09:33  new Identity requested
+08-27 20:09:35  new Ip: 37.120.185.151
+
+08-27 20:10:09   error in requests.exceptions.SSLError <urlopen error [Errno 32] Broken pipe>
+
+08-27 20:10:15  new Identity requested
+08-27 20:10:28  new Ip: 188.68.36.68
+
+08-27 20:11:12   there is a value error:There is no data for this particular query
+08-27 20:11:12   getting file RGBOQ Stock
+08-27 20:11:12  new Identity requested
+08-27 20:11:14  new Ip: 185.220.101.48
+
+08-27 20:11:17   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:11:21  new Identity requested
+08-27 20:11:22  new Identity requested
+08-27 20:11:24  new Ip: 193.31.24.154
+
+08-27 20:11:24  new Ip: 185.220.101.48
+
+08-27 20:11:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 20:11:49   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:11:55  new Identity requested
+08-27 20:11:56  new Ip: 178.17.174.164
+
+08-27 20:12:11   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:12:19  new Identity requested
+08-27 20:12:21  new Ip: 185.220.101.21
+
+08-27 20:12:24   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:12:25  new Identity requested
+08-27 20:12:27  new Identity requested
+08-27 20:12:29  new Identity requested
+08-27 20:12:31  new Ip: 103.251.167.21
+
+08-27 20:12:31  new Ip: 185.220.101.21
+
+08-27 20:12:31  new Ip: 185.220.101.21
+
+08-27 20:12:34   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:12:40  new Identity requested
+08-27 20:12:42  new Identity requested
+08-27 20:12:43  new Identity requested
+08-27 20:12:45  new Identity requested
+08-27 20:12:46  new Identity requested
+08-27 20:12:48  new Identity requested
+08-27 20:12:50  new Identity requested
+08-27 20:12:51  new Ip: 5.2.67.226
+
+08-27 20:12:51  new Ip: 185.220.101.5
+
+08-27 20:12:51  new Ip: 185.220.101.5
+
+08-27 20:12:51  new Ip: 185.220.101.5
+
+08-27 20:12:51  new Ip: 185.220.101.5
+
+08-27 20:12:51  new Ip: 185.220.101.5
+
+08-27 20:12:51  new Ip: 185.220.101.5
+
+08-27 20:12:53   done downloading file BRC Stock
+08-27 20:12:53   getting file BRID Stock
+08-27 20:15:53   done downloading file BRID Stock
+08-27 20:15:53   getting file BRN Stock
+08-27 20:16:06   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:16:12  new Identity requested
+08-27 20:16:20  new Ip: 185.246.188.74
+
+08-27 20:16:39   there is a value error:There is no data for this particular query
+08-27 20:16:39   getting file AROW Stock
+08-27 20:16:39   AROW Stock file downloaded before
+08-27 20:16:39   getting file TREC Stock
+08-27 20:16:40   TREC Stock file downloaded before
+08-27 20:16:40   getting file ARTW Stock
+08-27 20:16:40   ARTW Stock file downloaded before
+08-27 20:16:40   getting file SGRN Stock
+08-27 20:16:40  new Identity requested
+08-27 20:16:42  new Ip: 185.220.101.63
+
+08-27 20:16:46   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:16:49  new Identity requested
+08-27 20:16:51  new Ip: 185.246.188.74
+
+08-27 20:18:39   done downloading file BRN Stock
+08-27 20:18:39   getting file BRT Stock
+08-27 20:18:46   getting blocked from the server... handling it..HTTP Error 429: unknown
+08-27 20:18:50   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:18:55  new Identity requested
+08-27 20:18:57  new Ip: 109.70.100.85
+
+08-27 20:19:01   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:19:18  new Identity requested
+08-27 20:19:20  new Ip: 208.67.105.55
+
+08-27 20:19:29   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:19:31  new Identity requested
+08-27 20:19:32  new Ip: 23.154.177.6
+
+08-27 20:21:20   there is a value error:There is no data for this particular query
+08-27 20:21:20   getting file ARW Stock
+08-27 20:21:21   ARW Stock file downloaded before
+08-27 20:21:21   getting file ASA Stock
+08-27 20:21:21   ASA Stock file downloaded before
+08-27 20:21:21   getting file ASB Stock
+08-27 20:21:21   ASB Stock file downloaded before
+08-27 20:21:21   getting file TATD Stock
+08-27 20:21:21  new Identity requested
+08-27 20:21:22  new Ip: 91.212.153.123
+
+08-27 20:21:31   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:21:40  new Identity requested
+08-27 20:21:42  new Ip: 185.220.101.33
+
+08-27 20:21:42   done downloading file BRT Stock
+08-27 20:21:42   getting file BSET Stock
+08-27 20:21:48   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:21:49  new Identity requested
+08-27 20:21:51  new Identity requested
+08-27 20:21:53  new Identity requested
+08-27 20:21:56  new Identity requested
+08-27 20:22:00  new Identity requested
+08-27 20:22:13  new Ip: 89.163.143.8
+
+08-27 20:22:13  new Ip: 195.176.3.19
+
+08-27 20:22:13  new Ip: 195.176.3.19
+
+08-27 20:22:13  new Ip: 195.176.3.19
+
+08-27 20:22:13  new Ip: 185.220.101.33
+
+08-27 20:22:22   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:22:29  new Identity requested
+08-27 20:22:32  new Ip: 185.220.101.60
+
+08-27 20:22:35   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:22:45  new Identity requested
+08-27 20:22:47  new Ip: 158.69.63.54
+
+08-27 20:25:33   done downloading file BSET Stock
+08-27 20:25:33   getting file ESTE Stock
+08-27 20:27:09   there is a value error:There is no data for this particular query
+08-27 20:27:10   getting file DMF Stock
+08-27 20:27:10   DMF Stock file downloaded before
+08-27 20:27:10   getting file ASR Stock
+08-27 20:27:10   ASR Stock file downloaded before
+08-27 20:27:10   getting file ASTE Stock
+08-27 20:27:10   ASTE Stock file downloaded before
+08-27 20:27:10   getting file VIFI Stock
+08-27 20:27:10  new Identity requested
+08-27 20:27:21  new Ip: 188.68.56.103
+
+08-27 20:28:23   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:28:27  new Identity requested
+08-27 20:28:28  new Ip: 185.220.102.252
+
+08-27 20:28:33   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 20:28:45  new Identity requested
+08-27 20:28:47  new Ip: 89.234.157.254
+
+08-27 20:29:17   done downloading file ESTE Stock
+08-27 20:29:17   getting file MTRN Stock
+**************************************************
+
+08-27 21:10:56  startig at NY time: 
+08-27 21:11:10   getting file AAME Stock
+08-27 21:11:11   AAME Stock file downloaded before
+08-27 21:11:11   getting file AAPL Stock
+08-27 21:11:13   AAPL Stock file downloaded before
+08-27 21:11:13   getting file RINO Stock
+08-27 21:11:13   RINO Stock file downloaded before
+08-27 21:11:13   getting file ABLT Stock
+08-27 21:11:14  new Identity requested
+08-27 21:11:15  new Ip: 185.220.101.67
+08-27 21:11:18   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 21:11:30  new Identity requested
+08-27 21:11:32  new Ip: 185.142.239.49
+08-27 21:14:03   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 21:14:09  new Identity requested
+08-27 21:14:12  new Ip: 185.243.218.78
+08-27 21:14:19   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 21:14:23  new Identity requested
+08-27 21:14:26  new Ip: 107.189.14.182
+08-27 21:15:20   there is a value error:There is no data for this particular query
+08-27 21:15:22   getting file ABM Stock
+08-27 21:15:22   ABM Stock file downloaded before
+08-27 21:15:22   getting file ABT Stock
+08-27 21:15:22   ABT Stock file downloaded before
+08-27 21:15:22   getting file GOLD Stock
+08-27 21:15:23   GOLD Stock file downloaded before
+08-27 21:15:23   getting file AB Stock
+08-27 21:15:23   AB Stock file downloaded before
+08-27 21:15:23   getting file TBLMY Stock
+08-27 21:15:24  new Identity requested
+08-27 21:15:27  new Ip: 185.14.97.176
+08-27 21:15:33   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 21:15:39  new Identity requested
+08-27 21:15:41  new Ip: 109.70.100.22
+08-27 21:15:44   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 21:15:50  new Identity requested
+08-27 21:15:52  new Ip: 103.251.167.10
+08-27 21:15:57   getting blocked from the server... handling it..HTTP Error 429: unknown 
+
+08-27 21:16:03  new Identity requested
+08-27 21:16:05  new Ip: 104.244.76.13
+08-27 21:18:59   there is a value error:There is no data for this particular query
+08-27 21:19:00   getting file ACMT Stock
+08-27 21:19:00  new Identity requested
+08-27 21:19:03  new Ip: 103.251.167.21
+**************************************************
+
+08-27 21:19:12  startig at NY time: 
+08-27 21:19:28   getting file AAME Stock
+08-27 21:19:29   AAME Stock file downloaded before
+08-27 21:19:29   getting file AAPL Stock
+08-27 21:19:29   AAPL Stock file downloaded before
+08-27 21:19:29   getting file RINO Stock
+08-27 21:19:30   RINO Stock file downloaded before
+08-27 21:19:30   getting file ABLT Stock
+08-27 21:19:30   ABLT Stock file has a value error before
+08-27 21:19:30   getting file ABM Stock
+08-27 21:19:30   ABM Stock file downloaded before
+08-27 21:19:30   getting file ABT Stock
+08-27 21:19:31   ABT Stock file downloaded before
+08-27 21:19:31   getting file GOLD Stock
+08-27 21:19:31   GOLD Stock file downloaded before
+08-27 21:19:31   getting file AB Stock
+08-27 21:19:31   AB Stock file downloaded before
+08-27 21:19:31   getting file TBLMY Stock
+08-27 21:19:31   TBLMY Stock file has a value error before
+08-27 21:19:31   getting file ACMT Stock
+08-27 21:19:32  new Identity requested
+08-27 21:19:35  new Ip: 185.100.87.250
