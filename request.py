@@ -22,7 +22,6 @@ proxies = {'http': 'socks5://127.0.0.1:9050'
             ,'https': 'socks5://127.0.0.1:9050'}
 
 
-
 def generate_intervals(overlap:int=35,
                        inc:int=250,
                        init_start:str="2004-01-01",
@@ -75,10 +74,12 @@ def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
         
     except: 
         writer(' error in session.get')
-        time.sleep(20)
+        renew_connection()
+        time.sleep(3)
         jar = session.get("https://trends.google.com/").cookies
     
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar),urllib.request.ProxyHandler(proxies))
+    
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
     
     opener.addheaders = [
                 ("Referrer", "https://trends.google.com/trends/explore"),
@@ -128,6 +129,7 @@ def get_tor_session():
 
 # signal TOR for a new connection
 def renew_connection():
+    
     print("new Identity requested")
     writer("new Identity requested",starting=False)
     session = get_tor_session()
