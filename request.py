@@ -79,7 +79,8 @@ def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
         jar = session.get("https://trends.google.com/").cookies
     
     
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar),urllib.request.ProxyHandler(proxies))
+
     
     opener.addheaders = [
                 ("Referrer", "https://trends.google.com/trends/explore"),
@@ -187,30 +188,30 @@ def collect_frames(q:None, start:str, end:str, geo:str) -> list:
                 flag=True
                 tries=0 ## i need to give the ip another try
             except urllib.error.HTTPError as e :
-                tries+=1
+                tries +=1
                 writer(f' getting blocked from the server... handling it..{str(e)}')
                 time.sleep(random.gammavariate(0.99,2.99))
-                if tries>2:
+                if tries>=2:
                     renew_connection()
             except ConnectionResetError as e:
                 print(f' ConnectionResetError{str(e)}')
                 writer(f' ConnectionResetError{str(e)} ')
-                if tries>2:
+                if tries>=2:
                     renew_connection()
             except requests.exceptions.SSLError as e :
                 writer(f' error in requests.exceptions.SSLError{str(e)} ')
                 time.sleep(random.gammavariate(0.99,2.99))
-                if tries>2:
+                if tries>=2:
                     renew_connection()
             except urllib.error.URLError as e :                
                 writer(f'  urllib.error.URLError {str(e)}')
                 time.sleep(random.gammavariate(0.99,2.99))
-                if tries>2:
+                if tries>=2:
                     renew_connection()
             except Exception as e :
                 writer(f' unexpected error: {str(e)}')
                 time.sleep(random.gammavariate(0.99,2.99))
-                if tries>2:
+                if tries>=2:
                     renew_connection()
 
         time.sleep(random.gammavariate(.99,2.99)) # I should try to make a new condition > 3 seconds
