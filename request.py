@@ -61,11 +61,12 @@ def generate_intervals(overlap:int=35,
     return intervals
 
 
-def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
+def get_frame(q:None, time_:str, geo:str,useTorProxy:bool=False) -> pd.DataFrame:
     q = [q] if type(q) == str else q
 
     session = requests.session()
-    session.proxies = proxies
+    if useTorProxy:
+        session.proxies = proxies
     
     
 
@@ -78,9 +79,10 @@ def get_frame(q:None, time_:str, geo:str) -> pd.DataFrame:
         time.sleep(3)
         jar = session.get("https://trends.google.com/").cookies
     
-    
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar),urllib.request.ProxyHandler(proxies))
-
+    if useTorProxy:
+        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar),urllib.request.ProxyHandler(proxies))
+    else:
+        opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))#,urllib.request.ProxyHandler(proxies))
     
     opener.addheaders = [
                 ("Referrer", "https://trends.google.com/trends/explore"),
@@ -173,7 +175,7 @@ def renew_connection():
     writer("new Ip: "+str(new_ip))
 
 
-def collect_frames(q:None, start:str, end:str, geo:str) -> list:
+def collect_frames(q:None, start:str, end:str, geo:str,useTorProxy:bool=False) -> list:
     intervals = generate_intervals(init_start=start, init_end=end)
     frames = []
     #renew_connection()
@@ -184,31 +186,36 @@ def collect_frames(q:None, start:str, end:str, geo:str) -> list:
         tries=0
         while not flag:                
             try:
-                df = get_frame(q, interval, geo)
+                df = get_frame(q, interval, geo,useTorProxy)
                 flag=True
                 tries=0 ## i need to give the ip another try
             except urllib.error.HTTPError as e :
+                useTorProxy=True
                 tries +=1
                 writer(f' getting blocked from the server... handling it..{str(e)}')
                 time.sleep(random.gammavariate(0.99,2.99))
                 if tries>=2:
                     renew_connection()
             except ConnectionResetError as e:
+                useTorProxy=True
                 print(f' ConnectionResetError{str(e)}')
                 writer(f' ConnectionResetError{str(e)} ')
                 if tries>=2:
                     renew_connection()
             except requests.exceptions.SSLError as e :
+                useTorProxy=True
                 writer(f' error in requests.exceptions.SSLError{str(e)} ')
                 time.sleep(random.gammavariate(0.99,2.99))
                 if tries>=2:
                     renew_connection()
-            except urllib.error.URLError as e :                
+            except urllib.error.URLError as e :
+                useTorProxy=True                
                 writer(f'  urllib.error.URLError {str(e)}')
                 time.sleep(random.gammavariate(0.99,2.99))
                 if tries>=2:
                     renew_connection()
             except Exception as e :
+                useTorProxy=True
                 writer(f' unexpected error: {str(e)}')
                 time.sleep(random.gammavariate(0.99,2.99))
                 if tries>=2:

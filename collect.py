@@ -6,11 +6,11 @@ from rescale import qAggr
 
 def collect_data(q:None,start:str="2004-01-01", end:str="TODAY", geo="",
                  save:bool=False,
-                dest:str=None, verbose:bool=False) -> pd.DataFrame:
+                dest:str=None, verbose:bool=False,useTorProxy:bool=False) -> pd.DataFrame:
     if type(q) != str and type(q) != list:
         raise TypeError("Use string for single query search / list of strings for multiple keywoards.")
     #gets the unscaled data pieces
-    frames = collect_frames(q, start, end, geo)
+    frames = collect_frames(q, start, end, geo,useTorProxy)
     for frame in frames:
       for col in frame:
         frame[col] = frame[col].replace("<1", 1)
